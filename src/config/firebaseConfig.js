@@ -9,7 +9,7 @@ const firebaseConfig = {
 
 	messagingSenderId: "953122882157",
 
-	appId: process.env.REACT_APP_FIREBASE_KEY,
+	appId: "1:953122882157:web:76b5d7eec79c536ac3b564",
 };
 
 export default firebaseConfig;
